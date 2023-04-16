@@ -1,0 +1,12 @@
+function setup() {
+  createCanvas(640, 480);
+}
+
+function draw() {
+  background(0,100,0);
+  textAlign(CENTER, CENTER);
+  textSize(36);
+  fill('white');
+  text('THARIQ / 21104410046', width/2, height/2);
+
+}
